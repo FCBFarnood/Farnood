@@ -1,0 +1,46 @@
+.bold {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+table, th, td {
+    border: 1px solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.explanation {
+    font-size: xx-small;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+body {
+    background-color: thistle;
+    margin: 100px 50px 100px 300px;
+}
+
+thead {
+    background-color: plum;
+}
+
+h1 {
+    background-color: salmon;
+    font-family: monospace;
+}
+
+p {
+    text-align: justify;
+}
+
+nav {
+    letter-spacing: 2px;
+    padding: 10px 10px 25px 25px;
+    position: fixed;
+    top: 100px;
+    left: 30px;
+    line-height: 50px;
+    background-color: plum;
+
+}
